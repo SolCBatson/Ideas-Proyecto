@@ -1,3 +1,5 @@
+* esearch -db nucleotide -query "PLA2[Gene] AND Naja naja[Organism]" | \ efetch -format fasta > pla2_naja_naja.fasta
+* count=1; while read -r line; do if [[ "$line" =~ ^\> ]]; then echo ">IN$count ${line#* }"; ((count++)); else echo "$line"; fi; done < naja_naja_India.fasta > India_Naja_naja_pla2.fasta
 * nano NCBI_NUCLEOTIDE.sh 
 * bash NCBI_NUCLEOTIDE.sh -t Viperidae -m PLA2 -o rmViperidae.fasta
 * grep "geo_loc" tmp_sequences.gb

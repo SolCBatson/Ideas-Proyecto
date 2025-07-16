@@ -1,4 +1,8 @@
-# SCRIPT 
+# SCRIPT
+## Grupo externo
+* esearch -db nucleotide -query "PLA2[Gene] AND Naja naja[Organism]" | \ efetch -format fasta > pla2_naja_naja.fasta
+* count=1; while read -r line; do if [[ "$line" =~ ^\> ]]; then echo ">IN$count ${line#* }"; ((count++)); else echo "$line"; fi; done < naja_naja_India.fasta > India_Naja_naja_pla2.fasta
+
 ## Programa 
 * Programa utilizado NCBI_NUCLEOTIDE.sh de Raul OG 
 * Editamos y borramos la línea de rm tmp_sequences.gb
