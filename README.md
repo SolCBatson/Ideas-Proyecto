@@ -19,8 +19,7 @@ Con los datos adquiridos previamente en formato fasta se utilizarán los siguien
 Se descargarán los archivos para poder modificarlos en Atom
 Atom: Eliminar datos innecesarios para que solo este el nombre científico
 Subir los documentos a la supercomputadora 
-Muscle: Alinear las secuencias 
-Astral: Realizar un árbol filogenético consenso 
+Muscle: Alinear las secuencias  
 Iqtree: Realizar las Filogenias 
 Descargar el documento .tree 
 Visualizar la filogenia final en FigTree.
