@@ -16,14 +16,35 @@ La importancia de estudiar molecularmente los venenos de las serpientes es porqu
 Los datos se descargarán de NCBI de las secuencias de las proteínas fosfolipasas A2 (PLA2) de toda la familia viperidae.
 ## Metodología
 Con los datos adquiridos previamente en formato fasta se utilizarán los siguientes programas en Git BASH: 
-Se descargarán los archivos para poder modificarlos en Atom
-Atom: Eliminar datos innecesarios para que solo este el nombre científico
-Subir los documentos a la supercomputadora 
-Muscle: Alinear las secuencias 
-Astral: Realizar un árbol filogenético consenso 
-Iqtree: Realizar las Filogenias 
-Descargar el documento .tree 
-Visualizar la filogenia final en FigTree.
+* Se descargarán los archivos para poder modificarlos en Atom
+* Atom: Eliminar datos innecesarios para que solo este el nombre científico
+* Subir los documentos a la supercomputadora 
+* Muscle: Alinear las secuencias  
+* Iqtree: Realizar las Filogenias 
+* Descargar el documento .tree 
+* Visualizar la filogenia final en FigTree.
+
+## Resultados 
+![Filogenia](Proyect/RESULTS/Filogenia_Viperidae_PLA2)
+* Fig.1 La relación filogenética de la proteína PLA2 en Viperidae
+* El grupo externo: Naja naja 
+* La procedencia geográfica:
+* CH = China
+* PE = Perú
+* IN = India
+* JP = Japón
+* TU = Túnez
+* VM = Vietnam
+El árbol filogenético obtenido para la secuencia del gen PLA2 en miembros de la familia Viperidae, con Naja naja como grupo externo, revela una fuerte influencia de la distribución geográfica en la divergencia genética, incluso dentro de una misma especie. A lo largo del árbol, se observa que secuencias correspondientes a especies idénticas —como Protobothrops flavoviridis o Bothrops atrox— aparecen agrupadas en clados distintos, dependiendo del país de origen, lo que sugiere variación intraespecífica significativa.
+Por ejemplo, P. flavoviridis presenta agrupamientos separados para secuencias procedentes de Japón (JP) y China (CH), indicando una posible divergencia geográfica relacionada con el aislamiento insular o diferencias ecológicas regionales. De manera similar, B. atrox muestra secuencias de Perú (PE) posicionadas en clados distintos, lo que podría reflejar procesos de diferenciación genética en distintas zonas de la Amazonía.
+En términos generales, las secuencias de regiones asiáticas —China (CH), Japón (JP), India (IN) y Vietnam (VM)— no forman un clado monofilético, sino que se distribuyen en varios agrupamientos, lo cual sugiere una historia evolutiva compleja con posibles eventos de dispersión, aislamiento o convergencia funcional del gen PLA2. Por su parte, las secuencias de Túnez (TU) aparecen más claramente separadas, indicando un linaje diferenciado dentro de Viperidae africanos o mediterráneos.
+El grupo externo Naja naja, utilizado para enraizar el árbol, se ubica correctamente fuera del clado de Viperidae, confirmando su papel como referencia evolutiva y reforzando la separación filogenética clara entre Elapidae y Viperidae.
+En conjunto, la filogenia sugiere que la evolución del gen PLA2 en serpientes Viperidae no está estrictamente asociada a la identidad taxonómica, sino que se ve modulada por la procedencia geográfica, apoyando la existencia de variación genética regional o linajes crípticos dentro de ciertas especies.
+
+## Conclusiones 
+Los resultados filogenéticos demuestran que la variedad genética del gen PLA2, responsable de una de las principales toxinas del veneno de serpientes Viperidae, puede variar significativamente incluso entre individuos de una misma especie que habitan en diferentes regiones de un mismo país. Esta divergencia intraespecífica sugiere que las poblaciones locales de serpientes pueden tener composiciones de veneno distintas, lo que tiene implicaciones críticas para la salud pública.
+En particular, esta variabilidad podría afectar la eficacia de los antivenenos, los cuales suelen desarrollarse a partir del veneno de unas pocas poblaciones o especies representativas. La existencia de linajes crípticos o variantes geográficas no contempladas en la producción de antiofídicos podría reducir su efectividad en casos reales de mordedura.
+Por tanto, este estudio resalta la importancia de considerar la diversidad genética intraespecífica en estudios toxicológicos y médicos, y destaca la necesidad de no generalizar la identidad de las especies venenosas sin evaluar sus poblaciones regionales, promoviendo un enfoque más localizado y preciso en la investigación y desarrollo de tratamientos antiofídicos.
 
 ## Referencias 
 Bittenbinder, M. A., Capinha, L., Da Costa Pereira, D., Slagboom, J., Van de Velde, B., Casewell, N. R., Jennings, P., Kool, J., & Vonk, F. J. (2023). Development of a high-throughput in vitro screening method for the assessment of cell-damaging activities of snake venoms. PLoS Neglected Tropical Diseases, 17(8), e0011564. https://doi.org/10.1371/journal.pntd.0011564
