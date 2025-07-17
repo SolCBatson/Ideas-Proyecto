@@ -16,6 +16,7 @@ La importancia de estudiar molecularmente los venenos de las serpientes es porqu
 Los datos se descargarán de NCBI de las secuencias de las proteínas fosfolipasas A2 (PLA2) de toda la familia viperidae.
 ## Metodología
 Con los datos adquiridos previamente en formato fasta se utilizarán los siguientes programas en Git BASH: 
+<<<<<<< HEAD
 * Se descargarán los archivos para poder modificarlos en Atom
 * Atom: Eliminar datos innecesarios para que solo este el nombre científico
 * Subir los documentos a la supercomputadora 
@@ -45,6 +46,7 @@ En conjunto, la filogenia sugiere que la evolución del gen PLA2 en serpientes V
 Los resultados filogenéticos demuestran que la variedad genética del gen PLA2, responsable de una de las principales toxinas del veneno de serpientes Viperidae, puede variar significativamente incluso entre individuos de una misma especie que habitan en diferentes regiones de un mismo país. Esta divergencia intraespecífica sugiere que las poblaciones locales de serpientes pueden tener composiciones de veneno distintas, lo que tiene implicaciones críticas para la salud pública.
 En particular, esta variabilidad podría afectar la eficacia de los antivenenos, los cuales suelen desarrollarse a partir del veneno de unas pocas poblaciones o especies representativas. La existencia de linajes crípticos o variantes geográficas no contempladas en la producción de antiofídicos podría reducir su efectividad en casos reales de mordedura.
 Por tanto, este estudio resalta la importancia de considerar la diversidad genética intraespecífica en estudios toxicológicos y médicos, y destaca la necesidad de no generalizar la identidad de las especies venenosas sin evaluar sus poblaciones regionales, promoviendo un enfoque más localizado y preciso en la investigación y desarrollo de tratamientos antiofídicos.
+
 
 ## Referencias 
 Bittenbinder, M. A., Capinha, L., Da Costa Pereira, D., Slagboom, J., Van de Velde, B., Casewell, N. R., Jennings, P., Kool, J., & Vonk, F. J. (2023). Development of a high-throughput in vitro screening method for the assessment of cell-damaging activities of snake venoms. PLoS Neglected Tropical Diseases, 17(8), e0011564. https://doi.org/10.1371/journal.pntd.0011564

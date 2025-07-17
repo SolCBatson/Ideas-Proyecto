@@ -1,0 +1,302 @@
+LOCUS       X77755                   468 bp    mRNA    linear   VRT 27-JUN-2018
+DEFINITION  N.naja atra mRNA for PLA2.
+ACCESSION   X77755
+VERSION     X77755.1
+KEYWORDS    phospholipase a2; PLA2 gene.
+SOURCE      Naja atra (Chinese cobra)
+  ORGANISM  Naja atra
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Elapidae; Elapinae; Naja.
+REFERENCE   1
+  AUTHORS   Pan,F.M., Chang,W.C. and Chiou,S.H.
+  TITLE     cDNA and protein sequences coding for the precursor of
+            phospholipase A2 from Taiwan cobra, Naja naja atra
+  JOURNAL   Biochem. Mol. Biol. Int. 33 (1), 187-194 (1994)
+   PUBMED   7521702
+REFERENCE   2  (bases 1 to 468)
+  AUTHORS   Chiou,S.H.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-1994) S.H. Chiou, Inst of Biochemical Sciences,
+            Natinoal Taiwan University & Inst of, Biochemical Chemistry,
+            Academia Sinica, PO Box 23-106, Taipei, Taiwan 10764, TAIWAN
+FEATURES             Location/Qualifiers
+     source          1..468
+                     /organism="Naja atra"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8656"
+                     /tissue_type="venom gland"
+     gene            1..468
+                     /gene="PLA2"
+     CDS             13..453
+                     /gene="PLA2"
+                     /codon_start=1
+                     /product="phospholipase A2"
+                     /protein_id="CAA54802.1"
+                     /db_xref="GOA:Q91133"
+                     /db_xref="InterPro:IPR001211"
+                     /db_xref="InterPro:IPR016090"
+                     /db_xref="InterPro:IPR033112"
+                     /db_xref="InterPro:IPR033113"
+                     /db_xref="InterPro:IPR036444"
+                     /db_xref="UniProtKB/Swiss-Prot:Q91133"
+                     /translation="MTPAHLLILAAVCVSPLGASSSRPMPLNLYQFKNMIQCTVPSRS
+                     WWDFADYGCYCGRGGSGTPVDDLDRCCQVHDHCYNEAEKISGCWPYSKTYSYECSQGT
+                     LTCKGGNNACAAAVCDCDRLAAICFAGAPYNNNNYNIDLKARCQ"
+ORIGIN      
+        1 accacggaca aaatgactcc tgctcacctt ctgatcctgg cagcagtttg tgtctccccc
+       61 ttaggagcct cctctagtcg tcccatgcct ctcaacctct atcagttcaa aaacatgatt
+      121 caatgtactg tccccagtcg atcttggtgg gactttgcgg actatggttg ctactgcgga
+      181 cgcggaggta gcgggacgcc agtggacgac ttggataggt gctgccaggt tcatgaccac
+      241 tgctataatg aagccgaaaa aatttccgga tgctggccct actccaagac ctattcatac
+      301 gagtgttctc aaggcacact cacctgcaaa ggtggcaaca atgcgtgtgc agctgctgtc
+      361 tgtgattgtg accgcttggc agccatctgc ttcgccggag ccccttacaa caataacaac
+      421 tacaatatcg acctcaaggc acgttgccaa tgatatttga gaggcttc
+//
+
+LOCUS       X73225                   468 bp    mRNA    linear   VRT 27-JUN-2018
+DEFINITION  N.naja mRNA for phospholipase A2.
+ACCESSION   X73225
+VERSION     X73225.1
+KEYWORDS    phospholipase a2; PLA-2 gene; snake gene.
+SOURCE      Naja naja (Indian cobra)
+  ORGANISM  Naja naja
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Elapidae; Elapinae; Naja.
+REFERENCE   1
+  AUTHORS   Pan,F.M., Yeh,M.S., Chang,W.C., Hung,C.C. and Chiou,S.H.
+  TITLE     Sequence analysis and expression of phospholipase A2 from Taiwan
+            cobra
+  JOURNAL   Biochem. Biophys. Res. Commun. 199 (2), 969-976 (1994)
+   PUBMED   7510963
+REFERENCE   2  (bases 1 to 468)
+  AUTHORS   Chiou,S.H.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-1993) S.H. Chiou, National Taiwan Univ. & Inst of
+            Biological Chemistry, Inst. of Biochemical Sciences, Academia
+            Sinica, PO Box 23-106, Taipei, Taiwan 10764, TAIWAN
+COMMENT     On Sep 3, 1993 this sequence version replaced gi:311972.
+FEATURES             Location/Qualifiers
+     source          1..468
+                     /organism="Naja naja"
+                     /mol_type="mRNA"
+                     /strain="atra"
+                     /db_xref="taxon:35670"
+                     /tissue_type="venom glands"
+     gene            1..468
+                     /gene="PLA2"
+     sig_peptide     1..12
+                     /gene="PLA2"
+     CDS             13..453
+                     /gene="PLA2"
+                     /EC_number="3.1.1.4"
+                     /codon_start=1
+                     /product="phospholipase a2"
+                     /protein_id="CAA51694.1"
+                     /db_xref="GOA:P00598"
+                     /db_xref="InterPro:IPR001211"
+                     /db_xref="InterPro:IPR016090"
+                     /db_xref="InterPro:IPR033112"
+                     /db_xref="InterPro:IPR033113"
+                     /db_xref="InterPro:IPR036444"
+                     /db_xref="PDB:1POA"
+                     /db_xref="PDB:1POB"
+                     /db_xref="UniProtKB/Swiss-Prot:P00598"
+                     /translation="MTPAHLLILAAVCVSPLGASSNRPMPLNLYQFKNMIQCTVPSRS
+                     WWDFADYGCYCGRGGSGTPVDDLDRCCQVHDNCYNEAEKISGCWPYFKTYSYECSQGT
+                     LTCKGGNNACAAAVCDCDRLAAICFAGAPYNNNNYNIDLKARCQ"
+     mat_peptide     94..450
+                     /gene="PLA2"
+                     /product="phospholipase a2"
+ORIGIN      
+        1 accacggaca aaatgactcc tgctcacctt ctgatcctgg cagcagtttg tgtctccccc
+       61 ttaggagcct cctctaatcg tcccatgcct ctcaacctct atcagttcaa aaacatgatt
+      121 caatgtactg tccccagtcg atcttggtgg gattttgcgg actatggttg ctactgcgga
+      181 cgcggaggca gcgggacacc agtagacgac ttggataggt gctgccaggt tcatgacaac
+      241 tgctataatg aagccgaaaa aatttccgga tgctggccct acttcaagac ctattcatac
+      301 gagtgttctc aaggcacact cacctgcaaa ggtggcaaca atgcgtgtgc agctgctgtc
+      361 tgtgattgtg accgcttggc agccatctgc ttcgccggag ccccttacaa caataacaac
+      421 tacaatatcg acctcaaggc acgttgccaa tgatatttga gaggcttc
+//
+
+LOCUS       NAJPLA2C                 469 bp    mRNA    linear   VRT 02-APR-2009
+DEFINITION  Naja naja (clone 1) phospholipase A2 (pla2) mRNA, complete cds.
+ACCESSION   L42006
+VERSION     L42006.1
+KEYWORDS    phospholipase A2.
+SOURCE      Naja naja (Indian cobra)
+  ORGANISM  Naja naja
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Elapidae; Elapinae; Naja.
+REFERENCE   1  (bases 1 to 469)
+  AUTHORS   Armugam,A., Earnest,L., Chung,M.C., Gopalakrishnakone,P., Tan,C.H.,
+            Tan,N.H. and Jeyaseelan,K.
+  TITLE     Cloning and characterization of cDNAs encoding three isoforms of
+            phospholipase A2 in Malayan spitting cobra (Naja naja sputatrix)
+            venom
+  JOURNAL   Toxicon 35 (1), 27-37 (1997)
+   PUBMED   9028006
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Naja naja"
+                     /mol_type="mRNA"
+                     /strain="Sputatrix"
+                     /db_xref="taxon:35670"
+                     /clone="1"
+                     /tissue_type="venom gland"
+                     /dev_stage="adult"
+     gene            1..469
+                     /gene="pla2"
+     CDS             15..455
+                     /gene="pla2"
+                     /EC_number="3.1.1.4"
+                     /note="putative"
+                     /codon_start=1
+                     /product="phospholipase A2"
+                     /protein_id="AAA66029.1"
+                     /translation="MNPAHLLILAAVCVSPLGASSNRPMPLNLYQFKNMVQCTVPNRS
+                     WWDFADYGCYCGRGGSGTPVDDLDRCCQVHDNCYGEAEKISRCWPYFKTYSYECSQGT
+                     LTCKGGNNACAAAVCDCDRLAAICFAGAPYNDNNYNIDLKARCQ"
+     sig_peptide     15..95
+                     /gene="pla2"
+                     /note="putative"
+     mat_peptide     96..452
+                     /gene="pla2"
+                     /product="phospholipase A2"
+                     /EC_number="3.1.1.4"
+                     /function="hydrolysis of phospholipids"
+                     /note="putative"
+ORIGIN      
+        1 tcacctcgga caaaatgaat cctgctcacc ttctgatcct ggcagcagtt tgtgtctccc
+       61 ccttaggagc ctcctctaat cgtcccatgc ctctcaacct ctatcagttc aaaaacatgg
+      121 ttcaatgtac tgtccccaat cgatcttggt gggattttgc ggactacggt tgctactgcg
+      181 gacgcggagg tagcgggaca ccagtagacg acttggatag gtgctgccag gttcatgaca
+      241 actgctatgg tgaagctgaa aaaatttcca gatgctggcc ctacttcaag acctattcat
+      301 acgagtgttc tcaaggcaca ctcacctgca aaggtggcaa caatgcgtgt gcagctgctg
+      361 tctgtgattg tgaccgcttg gcagccatct gcttcgccgg agccccttac aacgataaca
+      421 actacaatat cgacctcaag gcacgttgcc aatgatattt gagaggcta
+//
+
+LOCUS       NAJPLA2B                 469 bp    mRNA    linear   VRT 02-APR-2009
+DEFINITION  Naja naja (clone 3) phospholipase A2 (pla2) mRNA, complete cds.
+ACCESSION   L42005
+VERSION     L42005.1
+KEYWORDS    phospholipase A2.
+SOURCE      Naja naja (Indian cobra)
+  ORGANISM  Naja naja
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Elapidae; Elapinae; Naja.
+REFERENCE   1  (bases 1 to 469)
+  AUTHORS   Armugam,A., Earnest,L., Chung,M.C., Gopalakrishnakone,P., Tan,C.H.,
+            Tan,N.H. and Jeyaseelan,K.
+  TITLE     Cloning and characterization of cDNAs encoding three isoforms of
+            phospholipase A2 in Malayan spitting cobra (Naja naja sputatrix)
+            venom
+  JOURNAL   Toxicon 35 (1), 27-37 (1997)
+   PUBMED   9028006
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Naja naja"
+                     /mol_type="mRNA"
+                     /strain="Sputatrix"
+                     /db_xref="taxon:35670"
+                     /clone="3"
+                     /haplotype="diploid"
+                     /cell_type="venom gland cells"
+                     /tissue_type="venom gland"
+                     /dev_stage="adult"
+     gene            1..469
+                     /gene="pla2"
+     CDS             15..455
+                     /gene="pla2"
+                     /EC_number="3.1.1.4"
+                     /note="putative"
+                     /codon_start=1
+                     /product="phospholipase A2"
+                     /protein_id="AAA66028.1"
+                     /translation="MNPAHLLILAAVCVSPLGASSNRPMPLNLYQFKNMVQCTVPNRS
+                     WWHFADYGCYCGRGGSGTPVDDLDRCCQIHDNCYNEAEKISRCWPYFKTYSYECSQGT
+                     LTCKGGNNACAAAVCDCDRLAAICFAGAPYNDNNYNIDLKARCQ"
+     sig_peptide     15..95
+                     /gene="pla2"
+                     /note="putative"
+     mat_peptide     96..452
+                     /gene="pla2"
+                     /product="phospholipase A2"
+                     /EC_number="3.1.1.4"
+                     /function="hydrolysis of phospholipids"
+                     /note="putative"
+ORIGIN      
+        1 tcacctcgga caaaatgaat cctgctcacc ttctgatcct ggcagcagtt tgtgtctccc
+       61 ccttaggagc ctcctctaat cgtcccatgc ctctcaacct ctatcagttc aaaaacatgg
+      121 ttcaatgtac tgtccccaat cgatcttggt ggcattttgc ggactacggt tgctactgcg
+      181 gacgcggagg tagcgggaca ccagtagacg acttggatag gtgctgccag attcatgaca
+      241 actgctataa tgaagctgaa aaaatttcca gatgctggcc ctacttcaag acctattcat
+      301 acgagtgttc tcaaggcaca ctcacctgca aaggtggcaa caatgcgtgt gcagctgctg
+      361 tctgtgattg tgaccgcttg gcagccatct gcttcgccgg agccccttac aacgataaca
+      421 actacaatat cgacctcaag gcacgttgcc aatgatattt gagaggcta
+//
+
+LOCUS       NAJPLA2A                 469 bp    mRNA    linear   VRT 02-APR-2009
+DEFINITION  Naja naja (clone 2) phospholipase A2 (pla2) mRNA, complete cds.
+ACCESSION   L42004
+VERSION     L42004.1
+KEYWORDS    phospholipase A2.
+SOURCE      Naja naja (Indian cobra)
+  ORGANISM  Naja naja
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Elapidae; Elapinae; Naja.
+REFERENCE   1  (bases 1 to 469)
+  AUTHORS   Armugam,A., Earnest,L., Chung,M.C., Gopalakrishnakone,P., Tan,C.H.,
+            Tan,N.H. and Jeyaseelan,K.
+  TITLE     Cloning and characterization of cDNAs encoding three isoforms of
+            phospholipase A2 in Malayan spitting cobra (Naja naja sputatrix)
+            venom
+  JOURNAL   Toxicon 35 (1), 27-37 (1997)
+   PUBMED   9028006
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Naja naja"
+                     /mol_type="mRNA"
+                     /strain="Sputatrix"
+                     /db_xref="taxon:35670"
+                     /clone="2"
+                     /haplotype="diploid"
+                     /cell_type="venom gland cells"
+                     /tissue_type="venom gland"
+                     /dev_stage="adult"
+     gene            1..469
+                     /gene="pla2"
+     CDS             15..455
+                     /gene="pla2"
+                     /EC_number="3.1.1.4"
+                     /codon_start=1
+                     /product="phospholipase A2"
+                     /protein_id="AAA66027.1"
+                     /translation="MNPAHLLILAAVCVSPLGASSNRPMPLNLYQFKNMIQCTVPNRS
+                     WWHFADYGCYCGRGGSGTPVDDLDRCCQIHDNCYNEAEKISRCWPYFKTYSYECSQGT
+                     LTCKGGNNACAAAVCDCDRLAAICFAGAPYNDNNYNIDLKARCQ"
+     sig_peptide     15..95
+                     /gene="pla2"
+                     /note="putative"
+     mat_peptide     96..452
+                     /gene="pla2"
+                     /product="phospholipase A2"
+                     /EC_number="3.1.1.4"
+                     /function="hydrolysis of phospholipids"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+ORIGIN      
+        1 tcacctcgga caaaatgaat cctgctcacc ttctgatcct ggcagcagtt tgtgtctccc
+       61 ccttaggagc ctcctctaat cgtcccatgc ctctcaacct ctatcagttc aaaaacatga
+      121 ttcaatgtac tgtccccaat cgatcttggt ggcattttgc ggactacggt tgctactgcg
+      181 gacgcggagg tagcgggaca ccagtagacg acttggatag gtgctgccag attcatgaca
+      241 actgctataa tgaagctgaa aaaatttcca gatgctggcc ctacttcaag acctattcat
+      301 acgagtgttc tcaaggcaca ctcacctgca aaggtggcaa caatgcgtgt gcagctgctg
+      361 tctgtgattg tgaccgcttg gcagccatct gcttcgccgg agccccttac aacgataaca
+      421 actacaatat cgacctcaag gcacgttgcc aatgatattt gagaggcta
+//
