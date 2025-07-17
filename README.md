@@ -26,7 +26,7 @@ Con los datos adquiridos previamente en formato fasta se utilizarán los siguien
 * Visualizar la filogenia final en FigTree.
 
 ## Resultados 
-![Filogenia](Proyect/RESULTS/Filogenia_Viperidae_PLA2)
+![Filogenia](RESULTS/Filogenia_Viperidae_PLA2)
 * Fig.1 La relación filogenética de la proteína PLA2 en Viperidae
 * El grupo externo: Naja naja 
 * La procedencia geográfica:
